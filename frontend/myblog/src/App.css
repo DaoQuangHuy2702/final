@@ -1,0 +1,19 @@
+body {
+  background-color: #dddddd;
+}
+
+* { 
+ margin: 0;
+ padding: 0;
+ border: 0;
+ box-sizing: border-box;
+}
+
+html {
+ font-size: 62.5%;
+}
+
+.main {
+  margin: 30px 400px;
+  display: flex;
+}
